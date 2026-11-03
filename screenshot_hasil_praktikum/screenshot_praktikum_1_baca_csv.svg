@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1127" height="460" viewBox="0 0 1127 460">
+<rect width="1127" height="460" fill="#1e1e1e"/>
+<rect width="1127" height="34" fill="#2d2d2d"/>
+<circle cx="18" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="17" r="6" fill="#27c93f"/>
+<text x="22" y="61" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c078" xml:space="preserve">$ python3 baca_csv_mahasiswa.py</text>
+<text x="22" y="84" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Skenario 1: File CSV valid ===</text>
+<text x="22" y="107" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">  [ValueError] Baris dilewati, IPK tidak valid: {'nim': '2024132003', 'nama': 'Citra Lestari', 'ipk': 'tiga koma tujuh'}</text>
+<text x="22" y="130" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">Pembacaan 'data_mahasiswa.csv' berhasil (blok else):</text>
+<text x="22" y="153" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">  - 2024132001 | Andi Pratama | IPK 3.50</text>
+<text x="22" y="176" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">  - 2024132002 | Budi Santoso | IPK 3.25</text>
+<text x="22" y="199" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">  - 2024132004 | Dewi Anggraini | IPK 3.80</text>
+<text x="22" y="222" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">  - 2024132005 | Eko Wijaya | IPK 2.95</text>
+<text x="22" y="245" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">  - 2024132006 | Fitri Rahmawati | IPK 3.65</text>
+<text x="22" y="268" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">Ringkasan: 5 mahasiswa valid, rata-rata IPK = 3.43</text>
+<text x="22" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">  (finally) File 'data_mahasiswa.csv' ditutup.</text>
+<text x="22" y="314" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="337" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Skenario 2: File tidak ditemukan ===</text>
+<text x="22" y="360" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">[FileNotFoundError] File 'data_tidak_ada.csv' tidak ditemukan.</text>
+<text x="22" y="383" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="406" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Skenario 3: Format CSV rusak ===</text>
+<text x="22" y="429" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">[csv.Error] Format CSV rusak pada 'data_rusak.csv': unexpected end of data</text>
+<text x="22" y="452" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">  (finally) File 'data_rusak.csv' ditutup.</text>
+</svg>

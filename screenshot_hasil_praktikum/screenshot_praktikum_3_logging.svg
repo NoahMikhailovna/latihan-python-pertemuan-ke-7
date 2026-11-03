@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="983" height="368" viewBox="0 0 983 368">
+<rect width="983" height="368" fill="#1e1e1e"/>
+<rect width="983" height="34" fill="#2d2d2d"/>
+<circle cx="18" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="17" r="6" fill="#27c93f"/>
+<text x="22" y="61" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c078" xml:space="preserve">$ python3 logging_si.py</text>
+<text x="22" y="84" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">Menulis pesan log ke semua level...</text>
+<text x="22" y="107" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">(Di konsol di bawah ini hanya WARNING ke atas yang tampil;</text>
+<text x="22" y="130" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"> DEBUG dan INFO hanya masuk ke file log.)</text>
+<text x="22" y="153" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2026-11-03 09:39:11 | WARNING  | si_akademik | Penggunaan memori mencapai 85%</text>
+<text x="22" y="176" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2026-11-03 09:39:11 | ERROR    | si_akademik | Gagal mengirim notifikasi email ke dosen@univ.ac.id</text>
+<text x="22" y="199" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2026-11-03 09:39:11 | CRITICAL | si_akademik | Koneksi database utama terputus!</text>
+<text x="22" y="222" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="245" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Verifikasi isi file si_akademik.log (semua level DEBUG ke atas) ===</text>
+<text x="22" y="268" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2026-11-03 09:39:11 | DEBUG    | si_akademik | Query SQL: SELECT * FROM mahasiswa WHERE nim='2024132003'</text>
+<text x="22" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2026-11-03 09:39:11 | INFO     | si_akademik | User admin berhasil login dari 192.168.1.10</text>
+<text x="22" y="314" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2026-11-03 09:39:11 | WARNING  | si_akademik | Penggunaan memori mencapai 85%</text>
+<text x="22" y="337" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2026-11-03 09:39:11 | ERROR    | si_akademik | Gagal mengirim notifikasi email ke dosen@univ.ac.id</text>
+<text x="22" y="360" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2026-11-03 09:39:11 | CRITICAL | si_akademik | Koneksi database utama terputus!</text>
+</svg>

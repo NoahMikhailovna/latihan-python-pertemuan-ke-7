@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="992" height="322" viewBox="0 0 992 322">
+<rect width="992" height="322" fill="#1e1e1e"/>
+<rect width="992" height="34" fill="#2d2d2d"/>
+<circle cx="18" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="17" r="6" fill="#27c93f"/>
+<text x="22" y="61" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c078" xml:space="preserve">$ python3 perpustakaan.py</text>
+<text x="22" y="84" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Skenario 1: Peminjaman berhasil ===</text>
+<text x="22" y="107" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">SUKSES: Fakhry Ahmad Fauzan meminjam 'Pemrograman Python' (sisa tersedia: 1)</text>
+<text x="22" y="130" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="153" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Skenario 2: Buku tidak ditemukan ===</text>
+<text x="22" y="176" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">[BukuNotFoundError] Buku dengan ID 'BK999' tidak ditemukan di katalog</text>
+<text x="22" y="199" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="222" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Skenario 3: Buku tidak tersedia ===</text>
+<text x="22" y="245" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">[BukuTidakTersediaError] Buku 'Basis Data' (ID BK002) sedang habis dipinjam, tidak ada eksemplar tersedia</text>
+<text x="22" y="268" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Skenario 4: Anggota tidak terdaftar ===</text>
+<text x="22" y="314" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">[AnggotaNotFoundError] Anggota dengan ID 'AG999' tidak terdaftar di perpustakaan</text>
+</svg>

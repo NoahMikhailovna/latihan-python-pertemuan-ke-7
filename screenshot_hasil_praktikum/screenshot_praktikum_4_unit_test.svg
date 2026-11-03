@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1001" height="713" viewBox="0 0 1001 713">
+<rect width="1001" height="713" fill="#1e1e1e"/>
+<rect width="1001" height="34" fill="#2d2d2d"/>
+<circle cx="18" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="17" r="6" fill="#27c93f"/>
+<text x="22" y="61" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c078" xml:space="preserve">$ python3 -m unittest test_fungsi_akademik -v</text>
+<text x="22" y="84" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_hitung_ipk_kosong (test_fungsi_akademik.TestHitungIPK.test_hitung_ipk_kosong) ... ok</text>
+<text x="22" y="107" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_hitung_ipk_normal (test_fungsi_akademik.TestHitungIPK.test_hitung_ipk_normal) ... ok</text>
+<text x="22" y="130" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_hitung_ipk_satu_nilai (test_fungsi_akademik.TestHitungIPK.test_hitung_ipk_satu_nilai) ... ok</text>
+<text x="22" y="153" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_hitung_ipk_sks_nol (test_fungsi_akademik.TestHitungIPK.test_hitung_ipk_sks_nol) ... ok</text>
+<text x="22" y="176" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_a (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_a) ... ok</text>
+<text x="22" y="199" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_b (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_b) ... ok</text>
+<text x="22" y="222" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_b_plus (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_b_plus) ... ok</text>
+<text x="22" y="245" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_batas_a (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_batas_a) ... ok</text>
+<text x="22" y="268" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_bukan_angka (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_bukan_angka) ... ok</text>
+<text x="22" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_c (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_c) ... ok</text>
+<text x="22" y="314" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_c_plus (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_c_plus) ... ok</text>
+<text x="22" y="337" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_d (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_d) ... ok</text>
+<text x="22" y="360" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_di_atas_seratus (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_di_atas_seratus) ... ok</text>
+<text x="22" y="383" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_e (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_e) ... ok</text>
+<text x="22" y="406" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_negatif (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_negatif) ... ok</text>
+<text x="22" y="429" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_nol (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_nol) ... ok</text>
+<text x="22" y="452" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nilai_seratus (test_fungsi_akademik.TestKonversiNilaiHuruf.test_nilai_seratus) ... ok</text>
+<text x="22" y="475" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nim_benar (test_fungsi_akademik.TestValidasiNIM.test_nim_benar) ... ok</text>
+<text x="22" y="498" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nim_bukan_string (test_fungsi_akademik.TestValidasiNIM.test_nim_bukan_string) ... ok</text>
+<text x="22" y="521" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nim_kosong (test_fungsi_akademik.TestValidasiNIM.test_nim_kosong) ... ok</text>
+<text x="22" y="544" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nim_kurang_digit (test_fungsi_akademik.TestValidasiNIM.test_nim_kurang_digit) ... ok</text>
+<text x="22" y="567" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nim_lebih_digit (test_fungsi_akademik.TestValidasiNIM.test_nim_lebih_digit) ... ok</text>
+<text x="22" y="590" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">test_nim_mengandung_huruf (test_fungsi_akademik.TestValidasiNIM.test_nim_mengandung_huruf) ... ok</text>
+<text x="22" y="613" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="636" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">----------------------------------------------------------------------</text>
+<text x="22" y="659" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">Ran 23 tests in 0.001s</text>
+<text x="22" y="682" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="705" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">OK</text>
+</svg>

@@ -1,0 +1,26 @@
+# Soal Praktik 6 — Konfigurasi pre-commit hooks.
+#
+# Hooks ini berjalan otomatis sebelum setiap commit dan mencegah kode
+# yang tidak memenuhi standar masuk ke repository:
+#   - black  : auto-format kode ke gaya yang konsisten
+#   - flake8 : linting (PEP 8, variabel tidak terpakai, dll.)
+#   - isort  : mengurutkan import (profile black agar kompatibel)
+#
+# Cara pakai (satu kali per repo):
+#   pip install pre-commit
+#   pre-commit install
+# Setelah itu, hooks berjalan sendiri pada file yang akan di-commit.
+repos:
+  - repo: https://github.com/psf/black
+    rev: 23.12.0
+    hooks:
+      - id: black
+  - repo: https://github.com/pycqa/flake8
+    rev: 7.0.0
+    hooks:
+      - id: flake8
+  - repo: https://github.com/pycqa/isort
+    rev: 5.13.2
+    hooks:
+      - id: isort
+        args: ["--profile", "black"]

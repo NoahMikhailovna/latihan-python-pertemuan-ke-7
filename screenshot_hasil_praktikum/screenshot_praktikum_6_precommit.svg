@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="766" height="644" viewBox="0 0 766 644">
+<rect width="766" height="644" fill="#1e1e1e"/>
+<rect width="766" height="34" fill="#2d2d2d"/>
+<circle cx="18" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="17" r="6" fill="#27c93f"/>
+<text x="22" y="61" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c078" xml:space="preserve">$ pre-commit run --all-files</text>
+<text x="22" y="84" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">black....................................................................Failed</text>
+<text x="22" y="107" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">- hook id: black</text>
+<text x="22" y="130" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">- files were modified by this hook</text>
+<text x="22" y="153" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="176" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">reformatted contoh_kode_buruk.py</text>
+<text x="22" y="199" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">1 file reformatted.</text>
+<text x="22" y="222" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="245" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">flake8...................................................................Failed</text>
+<text x="22" y="268" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">- hook id: flake8</text>
+<text x="22" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">- exit code: 1</text>
+<text x="22" y="314" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="337" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">contoh_kode_buruk.py:11:5: F841 local variable 'x' is assigned to but never used</text>
+<text x="22" y="360" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="383" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">isort....................................................................Failed</text>
+<text x="22" y="406" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">- hook id: isort</text>
+<text x="22" y="429" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">- files were modified by this hook</text>
+<text x="22" y="452" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="475" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">Fixing contoh_kode_buruk.py</text>
+<text x="22" y="498" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="521" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">&gt;&gt;&gt; Commit DITOLAK (exit code 1). Variabel x dihapus manual, lalu ulangi:</text>
+<text x="22" y="544" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="567" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c078" xml:space="preserve">$ pre-commit run --all-files</text>
+<text x="22" y="590" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">black....................................................................Passed</text>
+<text x="22" y="613" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">flake8...................................................................Passed</text>
+<text x="22" y="636" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">isort...................................................................Passed</text>
+</svg>

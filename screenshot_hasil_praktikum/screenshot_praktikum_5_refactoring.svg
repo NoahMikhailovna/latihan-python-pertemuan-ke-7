@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="486" height="345" viewBox="0 0 486 345">
+<rect width="486" height="345" fill="#1e1e1e"/>
+<rect width="486" height="34" fill="#2d2d2d"/>
+<circle cx="18" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="17" r="6" fill="#27c93f"/>
+<text x="22" y="61" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c078" xml:space="preserve">$ python3 kode_sebelum_refactoring.py</text>
+<text x="22" y="84" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Hasil proses (kode SEBELUM refactoring) ===</text>
+<text x="22" y="107" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2024132001 | Andi Pratama | 88 | A | LULUS</text>
+<text x="22" y="130" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2024132002 | Budi Santoso | 74 | B | LULUS</text>
+<text x="22" y="153" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2024132003 | Citra Lestari | 57 | D | TIDAK LULUS</text>
+<text x="22" y="176" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">20241 | Dodi Firmansyah | NIM TIDAK VALID</text>
+<text x="22" y="199" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve"></text>
+<text x="22" y="222" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#79c078" xml:space="preserve">$ python3 kode_sesudah_refactoring.py</text>
+<text x="22" y="245" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">=== Hasil proses (kode SESUDAH refactoring) ===</text>
+<text x="22" y="268" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2024132001 | Andi Pratama | 88 | A | LULUS</text>
+<text x="22" y="291" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2024132002 | Budi Santoso | 74 | B | LULUS</text>
+<text x="22" y="314" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">2024132003 | Citra Lestari | 57 | D | TIDAK LULUS</text>
+<text x="22" y="337" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#e6e6e6" xml:space="preserve">20241 | Dodi Firmansyah | NIM TIDAK VALID</text>
+</svg>
